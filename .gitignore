@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+02-pdf-bills-to-excel/bills/
+*_summary.xlsx
+reconciliation_report.xlsx
+.DS_Store
