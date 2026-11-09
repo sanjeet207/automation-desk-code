@@ -1,0 +1,4 @@
+Transactions: 190  |  by your rules: 186  |  fuzzy matches to check: 0  |  AI suggestions to check: 0  |  needs review: 4
+Categorised automatically: 98% by rules, 98% in total
+Top spend (3 months): Salaries 299,769, Rent 135,000, Travel 101,699
+Saved: /tmp/c2.xlsx  (Transactions, Spend by category, Needs review)

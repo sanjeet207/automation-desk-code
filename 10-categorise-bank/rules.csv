@@ -1,0 +1,19 @@
+keyword,category
+ZOMATO,Meals
+SWIGGY,Meals
+UBER,Travel
+OLA CABS,Travel
+INDIGO,Travel
+AWS,Software
+GOOGLE*WORKSPACE,Software
+NOTION,Software
+AMAZON PAY,Office supplies
+RENT TRANSFER,Rent
+NEFT/ACME,Sales receipts
+BLUEFERN,Sales receipts
+RAZORPAY SETTLE,Sales receipts
+ATM WDL,Cash withdrawal
+ELECTRICITY,Utilities
+BROADBAND,Utilities
+SALARY,Salaries
+BANK CHARGES,Bank charges

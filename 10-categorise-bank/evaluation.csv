@@ -1,0 +1,6 @@
+,categorised,correct when categorised,left for a person
+1. Rules only,91%,100%,18
+2. Rules + fuzzy (0.75),91%,100%,18
+3. Rules + fuzzy (0.60),92%,100%,15
+4. Rules + fuzzy (0.50),96%,98%,7
+5. After review: 6 new rules,98%,100%,4

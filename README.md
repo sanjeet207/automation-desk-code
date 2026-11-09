@@ -11,6 +11,10 @@ Every folder matches one video. All sample data is fictional, and nothing here i
 | 4 | A PDF statement for every customer | [04-pdf-statements](04-pdf-statements) |
 | 5 | Email every customer their own PDF | [05-email-statements](05-email-statements) |
 | 6 | Organise a messy folder | [06-organise-folder](06-organise-folder) |
+| 7 | Monthly finance report with charts | [07-finance-report](07-finance-report) |
+| 8 | Budget vs actual variance report | [08-budget-vs-actual](08-budget-vs-actual) |
+| 9 | Clean messy Excel data | [09-clean-messy-data](09-clean-messy-data) |
+| 10 | Categorise bank transactions: rules, fuzzy, AI | [10-categorise-bank](10-categorise-bank) |
 
 ## Setup (once)
     python -m venv .venv && source .venv/bin/activate      # Windows: .venv\Scripts\activate
@@ -27,7 +31,7 @@ Every folder matches one video. All sample data is fictional, and nothing here i
     python extract_bills.py             # writes bills_summary.xlsx
     python extract_bills.py --folder my_bills --out my_bills.xlsx
 
-Videos 3 to 6: see the README inside each folder.
+Videos 3 onward: see the README inside each folder.
 
 Each folder has a test you can run, e.g. `python test_extract.py`.
 
